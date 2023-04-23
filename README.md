@@ -9,16 +9,18 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sigmar&weight=300&size=30&duration=4000&pause=1000&color=54F79E&background=A1FF9C00&width=435&lines=Front-end+Developer;Love+My+Work)](https://git.io/typing-svg)
 
 
-- 🏢 I'm a Software Engineer and Technical Community Manager at Almadrsa
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my portfolio at https://yousefdergham.netlify.app/ to see some of the projects I've worked on.
+- 🏢 I'm a Mechanical Engineer and a junior Front-end Developer
+- ⚙️ I study Mechanical Engineering at Cairo University and I love that field.
+- ⚡ Web Development is field that inspire me, I start learn it as a hobby.
+- 👨‍💻 Check out my portfolio at (Soon there will be my website link here) to see some of the projects I've worked on.
 
 
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/yousefdergham" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/fares-hesham-2a70a3204/" target="_blank"><img src="https://img.shields.io/badge/-Fares%20Hesham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+
+
+
 <a href="https://t.me/YousefMohamed01" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
