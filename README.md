@@ -6,7 +6,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sigmar&weight=300&size=21&duration=4000&pause=1000&color=54F79E&background=A1FF9C00&center=true&vCenter=true&width=435&lines=Front-end+Developer;Love+My+Work)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sigmar&weight=300&size=30&duration=4000&pause=1000&color=54F79E&background=A1FF9C00&width=435&lines=Front-end+Developer;Love+My+Work)](https://git.io/typing-svg)
+
 
 - 🏢 I'm a Software Engineer and Technical Community Manager at Almadrsa
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
